@@ -173,3 +173,10 @@ main section{
   font-weight: 400;
 }
 
+/* Resume section styles */
+.resume-column-title{
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+}
+
